@@ -1,5 +1,5 @@
 # Python-Code
-Project Summary 
+# Project Summary 
 The use of data analytics and machine learning in risk management has become increasingly important for financial institutions to preempt and mitigate potential threats. This project aims to develop a data-driven solution for determining credit issuance for 1,000 pilot customers by leveraging a predictive model trained on a dataset of 24,000 existing clients. A Minimum Viable Product (MVP) model was built to classify customers as creditworthy (1) or not (0), optimizing the decision-making process to maximize profitability.
  
 

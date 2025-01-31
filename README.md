@@ -61,6 +61,9 @@ To identify the optimal model, new features were generated from the existing dat
 # Results from the Best Model:Gradient Boosting Machine
 The Gradient Boosting Machine, along with the optimal threshold for profit maximization, was used to predict customer default risk, where "1" represented likely defaulters and "0" represented non-defaulters. Credit issuance decisions were based on the inverse likelihood of default—customers predicted to default ("1") were assigned a "0" for credit approval, and vice versa.
 
+<img width="469" alt="image" src="https://github.com/user-attachments/assets/8c4f069f-a34a-4f22-9529-0c942315751f" />
+
+
  
 
 

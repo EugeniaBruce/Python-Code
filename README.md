@@ -22,6 +22,7 @@ o	1st percentile: Bill amounts ranged from -100 to -100, while payment values ha
 
 <img width="528" alt="image" src="https://github.com/user-attachments/assets/4802d714-ff21-4beb-9d07-69f301e87871" />
 
-<img width="511" alt="image" src="https://github.com/user-attachments/assets/0a4e693b-185f-4e10-9d4a-582832c35102" />
+<img width="518" alt="image" src="https://github.com/user-attachments/assets/aac1a7a1-ff51-41bc-a9fc-6c4a45cf35b0" />
+
 
 

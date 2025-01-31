@@ -17,3 +17,4 @@ o	1st percentile: Bill amounts ranged from -100 to -100, while payment values ha
 •	Outlier Handling: Extreme values were retained as they were crucial for predictive modeling and accurately reflected pilot customer trends.
 •	Continuous Variables were binned and subsequently analyzed against default percentage for each bin
 
+<img width="452" alt="Image" src="https://github.com/user-attachments/assets/b47009e7-ad51-4842-8777-0889d448c3c8" />

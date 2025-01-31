@@ -65,6 +65,8 @@ The Gradient Boosting Machine, along with the optimal threshold for profit maxim
 <img width="460" alt="image" src="https://github.com/user-attachments/assets/c741db7b-68b8-48df-b06c-f398cc88e873" />
 <img width="448" alt="image" src="https://github.com/user-attachments/assets/36889b89-b399-4959-a868-090ac42d6b31" />
 
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/7c1b3fb4-eab9-4f00-8bd0-a9a77def70e1" />
+
 
 
  

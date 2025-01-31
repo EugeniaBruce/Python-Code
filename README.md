@@ -18,3 +18,4 @@ o	1st percentile: Bill amounts ranged from -100 to -100, while payment values ha
 •	Continuous Variables were binned and subsequently analyzed against default percentage for each bin
 
 <img width="452" alt="Image" src="https://github.com/user-attachments/assets/b47009e7-ad51-4842-8777-0889d448c3c8" />
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/6606e8a8-651b-46c4-9ee6-d216c8459db1" />

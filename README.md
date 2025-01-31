@@ -15,14 +15,13 @@ The data was loaded and pre-processed to assess data types, handle missing value
 o	99th percentile: Bill amounts ranged from 300K–350K, and payments from 65K–75K, with extreme values exceeding these thresholds.
 o	1st percentile: Bill amounts ranged from -100 to -100, while payment values had a minimum of 0, indicating no issues.
 •	Outlier Handling: Extreme values were retained as they were crucial for predictive modeling and accurately reflected pilot customer trends.
-•	Continuous Variables were binned and subsequently analyzed agains
+•Continuous Variables were binned and subsequently analyzed against default percentage for each bin.
 
-<img width="510" alt="image" src="https://github.com/user-attachments/assets/da23f96c-1531-43a3-8b1a-05027d2e8826" />
-<img width="512" alt="image" src="https://github.com/user-attachments/assets/ef980061-df02-4ff7-a37f-ef831667c454" />
+<img width="476" alt="image" src="https://github.com/user-attachments/assets/c25e6465-5631-47a5-85ec-788df17156d3" />
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/c6571d89-453b-4d45-b6be-3531ac645d1b" />
 
-<img width="528" alt="image" src="https://github.com/user-attachments/assets/4802d714-ff21-4beb-9d07-69f301e87871" />
 
-<img width="518" alt="image" src="https://github.com/user-attachments/assets/aac1a7a1-ff51-41bc-a9fc-6c4a45cf35b0" />
+
 
 
 

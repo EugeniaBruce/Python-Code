@@ -57,6 +57,9 @@ To ensure the model effectiveness, data was split into training and testing data
 To identify the optimal model, new features were generated from the existing data, and the models were rerun. Logistic Regression and Gradient Boosting Machine (GBM) emerged as the top performers, achieving AUC scores of 0.7896 and 0.7942, respectively, with expected profits of $984,500 and $948,500 on the test dataset. Although Logistic Regression had a slightly higher expected profit, GBM was chosen for its superior ability to capture complex feature interactions and handle non-linear relationships, allowing it to generalize more effectively to new, unseen data.
 
 
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/d15a7139-0cd1-427e-ab34-a36fd423a68d" />
+
+
 
 
 

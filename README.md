@@ -29,7 +29,10 @@ o	1st percentile: Bill amounts ranged from -100 to -100, while payment values ha
 <img width="475" alt="image" src="https://github.com/user-attachments/assets/f94a12f5-3400-40c6-9784-3cc054a0f24b" />
 
 
+
+
 From the analysis the following was observed:
+
 •	Males have a higher default rate than females.
 •	High school graduates show the highest default rates, while postgraduates have the lowest.
 •	The "Other" marital status category has the highest default rate, followed by married and single.
@@ -53,7 +56,7 @@ To ensure the model effectiveness, data was split into training and testing data
 
 To identify the optimal model, new features were generated from the existing data, and the models were rerun. Logistic Regression and Gradient Boosting Machine (GBM) emerged as the top performers, achieving AUC scores of 0.7896 and 0.7942, respectively, with expected profits of $984,500 and $948,500 on the test dataset. Although Logistic Regression had a slightly higher expected profit, GBM was chosen for its superior ability to capture complex feature interactions and handle non-linear relationships, allowing it to generalize more effectively to new, unseen data.
 
-![image](https://github.com/user-attachments/assets/d582eedd-e015-4ca8-bd73-466b9f659e47)
+
 
 
 
